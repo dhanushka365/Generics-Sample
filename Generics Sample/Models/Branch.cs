@@ -1,6 +1,6 @@
 ﻿namespace Generics_Sample.Models
 {
-    public class Branch
+    public class Branch:BaseEntity
     {
         public string Name { get; set; }
 
